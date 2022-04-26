@@ -1,0 +1,15 @@
+body{
+    color: pink;
+    background-color:blue;
+}
+.heading{
+    width: 80%;
+}
+.name_of_objects,.result_object_name,.result_object_accuracy{
+    color: lightsalmon;
+}
+#camera{
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+}
